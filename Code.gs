@@ -1,5 +1,5 @@
 function run(){
-analyzeFolder('153RTGw3Lh9o2h928hWQ8sbvO');
+analyzeFolder('FOLDER_ID');
 }
 
 function analyzeFolder(folderId) {
