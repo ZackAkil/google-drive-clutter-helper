@@ -16,7 +16,7 @@ If you need to analyze files across subfolders, you'll need to modify the script
 
 **2. Add the Apps Script:**
 
-* Go to **Tools** > **Script editor**.
+* Go to **Extensions** > **Apps Script**.
 * This will open the script editor window. You can delete any default code that might be present.
 
 **3. Copy and Paste the Script:**
